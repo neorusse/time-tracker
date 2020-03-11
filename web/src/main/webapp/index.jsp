@@ -11,9 +11,9 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>Jenkins Auto Deploy to Local Tomcat Training</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    JSP-JSLT Web App Successfully deployed to Tomcat Server running locally.
   </p>
 </body>
 </html>
